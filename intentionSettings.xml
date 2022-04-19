@@ -1,0 +1,11 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="Java/Declaration/Generate missed test methods" />
+    <ignoreAction name="XML/Convert tag to attribute" />
+    <ignoreAction name="XML/Convert attribute to child element" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Add Xsi schema location for external resource" />
+  </component>
+</application>

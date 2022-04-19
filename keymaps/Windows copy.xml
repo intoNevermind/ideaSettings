@@ -1,0 +1,39 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="AppServers.DeployAll">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GuiDesigner.Duplicate" />
+  <action id="Javaee.Deploy">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="io.zhile.research.intellij.ier.action.ResetAction">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+</keymap>

@@ -1,0 +1,4 @@
+<templateSet group="AutoCodeJava">
+  <template name="elsen" value="else {&#10;    $END$&#10;}" description="else conditional" toReformat="false" toShortenFQNames="true" />
+  <template name="switchn" value="switch ($END$) {&#10;    &#10;}" description="switch statement" toReformat="false" toShortenFQNames="true" />
+</templateSet>

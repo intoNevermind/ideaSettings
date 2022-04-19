@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="intoNevermind" id="7bd8fc37-1f0a-42a2-99e7-306cb2e30460">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

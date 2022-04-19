@@ -1,0 +1,12 @@
+<application>
+  <component name="ToStringTemplates" defaultTemplateName="xml">
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="xml" />
+          <option name="template" value="public java.lang.String toString() {&#10;return &quot;&lt;&quot; + tag() + &quot;&gt;&quot; +&#10;    #foreach( $member in $members )&#10;        $member.accessor +&#10;    #end&#10;&quot;&lt;&quot; +'/'+ tag() + &quot;&gt;&quot;;&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
