@@ -1,4 +1,20 @@
 <application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="388" />
+    <option name="newTranslationDialogY" value="452" />
+    <histories>
+      <item value="The singular annotation is used together with @Builder to create single element 'add' methods in the builder for collections." />
+      <item value="Returns: The singular name of this field. If it's a normal english plural, lombok will figure it out automatically. Otherwise, this parameter is mandatory." />
+      <item value="Each method in any of the types listed here (include supertypes) will not be delegated. NB: All methods in Object, as well as canEqual(Object other) will never be delegated.&#10;Returns:&#10;For each method (not already in java.lang.Object) in these types, skip generating a delegate method (overrides types())." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="2" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1650550632215" />
   </component>
