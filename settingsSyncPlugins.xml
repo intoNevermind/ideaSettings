@@ -45,6 +45,17 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="IdeaVIM">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Key Promoter X">
           <value>
             <PluginData>
@@ -80,6 +91,17 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="String Manipulation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="apache-felix-plugin">
           <value>
             <PluginData>
@@ -89,6 +111,18 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="aws.toolkit">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -152,6 +186,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.godwin.json.parser">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.haulmont.jpab">
           <value>
             <PluginData>
@@ -178,6 +224,11 @@
           </value>
         </entry>
         <entry key="com.intellij.javaee.ejb">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.jboss.arquillian">
           <value>
             <PluginData />
           </value>
@@ -254,6 +305,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.xstudio.com.xstudio.plugin.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.yiycf.plugins.mavenDependencyHelper">
           <value>
             <PluginData>
@@ -277,6 +340,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="dev.aid.delombok">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="indent-rainbow.indent-rainbow">
           <value>
             <PluginData>
@@ -285,6 +359,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -296,6 +371,18 @@
                   <option value="com.intellij.java" />
                   <option value="com.intellij.modules.lang" />
                   <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="io.github.kings1990.FastRequest">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
             </PluginData>
@@ -313,12 +400,82 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="lermitage.intellij.extra.icons">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="me.lotabout.codegenerator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="net.ashald.envfile">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="net.seesharpsoft.intellij.plugins.csv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.asciidoctor.intellij.asciidoc">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.asciidoctor.intellij.asciidoclet">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.asciidoctor.intellij.asciidoc" />
                 </set>
               </option>
             </PluginData>
@@ -408,6 +565,18 @@
                   <option value="com.intellij.modules.database" />
                   <option value="com.intellij.modules.java" />
                   <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="zielu.gittoolbox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
