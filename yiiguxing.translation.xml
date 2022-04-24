@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="388" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="erhaps Topmost Parent Department" />
+      <item value="erhaps Topmost ParentDepartment" />
+      <item value="erhaps TopmostParentDepartment" />
+      <item value="erhaps Topmos tParentDepartment" />
+      <item value="erhapsTopmostParentDepartment" />
+      <item value="erhap sTopmostParentDepartment" />
       <item value="Невозможно получить отдел с идентификатором &quot;+departmentId+&quot;, он был удален" />
       <item value="Cannot get department with id &quot; + departmentId + &quot;, it was removed" />
       <item value="Cannoget department with id &quot; + departmentId + &quot;, it was removed" />
@@ -16,7 +22,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="RUSSIAN" value="6" />
       </map>
     </option>
   </component>
