@@ -10,6 +10,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -26,7 +27,9 @@
         </entry>
         <entry key="Builder Generator">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="CMD Support">
@@ -42,7 +45,9 @@
         </entry>
         <entry key="GenerateStaticBuilder">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="IdeaVIM">
@@ -53,6 +58,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -88,7 +94,9 @@
         </entry>
         <entry key="Osmorc">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="String Manipulation">
@@ -143,7 +151,9 @@
         </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="coderead.IdeaPlugins.maven">
@@ -155,6 +165,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -183,6 +194,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -220,17 +232,22 @@
                   <option value="com.intellij.javaee" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.javaee.ejb">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.jboss.arquillian">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.jsf">
@@ -240,17 +257,23 @@
         </entry>
         <entry key="com.intellij.tide">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.edu">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.jax.ws">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.mirkoalicastro.mavenversionrefactor">
@@ -319,6 +342,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -342,6 +366,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -413,6 +438,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -437,6 +463,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -459,6 +486,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -507,12 +535,15 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.vue">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="org.jetbrains.search-everywhere-docs">
@@ -558,6 +589,7 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -572,6 +604,7 @@
                   <option value="com.intellij.modules.ultimate" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
