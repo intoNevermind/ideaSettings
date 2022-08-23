@@ -277,6 +277,9 @@
     <ignored-resource url="http://localhost:8084/employee/departmentSchema.xsd" />
     <ignored-resource url="http://localhost:8084/employee/employeeSchema.xsd" />
     <ignored-resource url="http://primefaces.org/ui" />
+    <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/wsdl/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/wsdl/soap/" />
     <ignored-resource url="http://skpari.ru/1c/finance" />
     <ignored-resource url="http://skpari.ru/autoinsurance/contract/ws" />
     <ignored-resource url="http://skpari.ru/autoinsurance/money/domain/dto" />
@@ -330,6 +333,7 @@
     <ignored-resource url="http://skpari.ru/privateOffice/contracts/domain" />
     <ignored-resource url="http://skpari.ru/privateoffice/domain/account/" />
     <ignored-resource url="http://skpari.ru/privateoffice/domain/sales/" />
+    <ignored-resource url="http://skpari.ru/services/accounting/finance" />
     <ignored-resource url="http://skpari.ru/travel/domain/" />
     <ignored-resource url="http://skpari.ru/travel/domain/application/" />
     <ignored-resource url="http://skpari.ru/travel/domain/sales/" />
