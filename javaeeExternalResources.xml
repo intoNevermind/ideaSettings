@@ -270,6 +270,7 @@
     <ignored-resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" />
     <ignored-resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" />
     <ignored-resource url="http://eviware.com/soapui/config" />
+    <ignored-resource url="http://java.sun.com/jsf/core" />
     <ignored-resource url="http://java.sun.com/jsf/facelets" />
     <ignored-resource url="http://java.sun.com/jsf/html" />
     <ignored-resource url="http://java.sun.com/jsp/jstl/core" />
