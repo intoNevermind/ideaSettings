@@ -288,6 +288,8 @@
     <ignored-resource url="http://skpari.ru/common" />
     <ignored-resource url="http://skpari.ru/common/domain/references/" />
     <ignored-resource url="http://skpari.ru/crm" />
+    <ignored-resource url="http://skpari.ru/domain/accounting/finance" />
+    <ignored-resource url="http://skpari.ru/domain/accounting/settlement" />
     <ignored-resource url="http://skpari.ru/domain/parties/" />
     <ignored-resource url="http://skpari.ru/domain/parties/legals/" />
     <ignored-resource url="http://skpari.ru/domain/parties/persons/" />
@@ -302,7 +304,10 @@
     <ignored-resource url="http://skpari.ru/esb/services/application/" />
     <ignored-resource url="http://skpari.ru/esb/services/contract/" />
     <ignored-resource url="http://skpari.ru/esb/services/person/" />
+    <ignored-resource url="http://skpari.ru/money/domain/contract/" />
+    <ignored-resource url="http://skpari.ru/money/domain/offset/" />
     <ignored-resource url="http://skpari.ru/money/domain/paymentorder/" />
+    <ignored-resource url="http://skpari.ru/money/messages/offset/" />
     <ignored-resource url="http://skpari.ru/money/messages/paymentorder/" />
     <ignored-resource url="http://skpari.ru/personal/ws/domain/core/" />
     <ignored-resource url="http://skpari.ru/personal/ws/domain/core/payment/" />
