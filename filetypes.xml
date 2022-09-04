@@ -9,7 +9,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
