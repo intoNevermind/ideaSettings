@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="ADB Logs" displayType="STICKY_BALLOON" playSound="true" />
     <notification groupId="Branch Context group" displayType="NONE" />
   </component>
 </application>
