@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="ADB Logs" displayType="STICKY_BALLOON" playSound="true" />
     <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" playSound="true" />
   </component>
 </application>
