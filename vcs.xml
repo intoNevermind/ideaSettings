@@ -130,9 +130,13 @@
           <option name="url" value="git@gitlab.skpari.ru:po/legacy/dodo-insurance-client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.skpari.ru:po/dictionary/currencies.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\.1.A-mind\WORKSPACES\jetBrains\IntelliJ IDEA\PRIVATE_OFFICE" />
+    <option name="cloneParentDir" value="D:\.1.A-mind\WORKSPACES\jetBrains\IntelliJ IDEA\DICTIONARY" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
