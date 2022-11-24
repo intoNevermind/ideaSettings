@@ -4,6 +4,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="RENAME_ACCESSORS" value="false" />
   </component>
