@@ -3,7 +3,7 @@
     <property name="created">2019-02-27T16:40:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2022-02-07T16:49:48</property>
+    <property name="modified">2023-07-12T13:24:24</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -39,22 +39,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="ffffe8" />
+        <option name="BACKGROUND" value="f4f5fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="f0fbf7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff0ff" />
+        <option name="BACKGROUND" value="f9fcf5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eafdfd" />
+        <option name="BACKGROUND" value="fff8f3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">

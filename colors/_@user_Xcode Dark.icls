@@ -3,7 +3,7 @@
     <property name="created">2021-10-14T12:02:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2022-02-07T16:49:48</property>
+    <property name="modified">2023-07-12T13:24:25</property>
     <property name="originalScheme">Xcode Dark</property>
   </metaInfo>
   <colors>
@@ -69,8 +69,8 @@
         <option name="FOREGROUND" value="41a1c0" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="d0a8ff" />
@@ -357,22 +357,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="383930" />
+        <option name="BACKGROUND" value="41424b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2f3935" />
+        <option name="BACKGROUND" value="3e4748" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="38303e" />
+        <option name="BACKGROUND" value="454846" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2c383c" />
+        <option name="BACKGROUND" value="494445" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -405,7 +405,7 @@
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
         <option name="FOREGROUND" value="d0a8ff" />
@@ -423,7 +423,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_LABEL" baseAttributes="" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -439,7 +439,7 @@
         <option name="FOREGROUND" value="d0a8ff" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LESS_ID_SELECTOR">
       <value>
         <option name="FOREGROUND" value="5dd8ff" />
@@ -530,7 +530,7 @@
         <option name="FOREGROUND" value="fd8f3f" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="d0a8ff" />
@@ -663,8 +663,8 @@
         <option name="FOREGROUND" value="d0a8ff" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
+    <option name="Static property reference ID" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
