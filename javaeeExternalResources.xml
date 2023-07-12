@@ -279,6 +279,7 @@
     <ignored-resource url="http://localhost:8084/employee/employeeSchema.xsd" />
     <ignored-resource url="http://primefaces.org/ui" />
     <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/ws/2004/09/policy" />
     <ignored-resource url="http://schemas.xmlsoap.org/wsdl/" />
     <ignored-resource url="http://schemas.xmlsoap.org/wsdl/soap/" />
     <ignored-resource url="http://skpari.ru/1c/finance" />
