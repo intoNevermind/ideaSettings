@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://skpari.ru/employees/soap/ws/domain/department/" location="D:/WORKSPACES/jetBrains/IntelliJ IDEA/EMPLOYEE_WS/employees/src/main/resources/wsdl/xsd/department.xsd" />
     <resource url="http://skpari.ru/employees/soap/ws/domain/employee/" location="D:/WORKSPACES/jetBrains/IntelliJ IDEA/EMPLOYEE_WS/employees/src/main/resources/wsdl/xsd/employee.xsd" />
+    <resource url="http://www.w3.org/2007/05/addressing/metadata" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.2/extResources/c7b2967c_metadata.xml" />
     <resource url="urn:jboss:1.0" location="C:/java/IDEA WORKSPACE(2018.3)/_travel_ws/server/wildfly-9.0.2.Final/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:batch-jberet:1.0" location="C:/java/IDEA WORKSPACE(2018.3)/_personal_ws/server/wildfly-14.0.1.Final/docs/schema/batch-jberet_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="C:/java/IDEA WORKSPACE(2018.3)/_personal_ws/server/wildfly-14.0.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
