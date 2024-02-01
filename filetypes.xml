@@ -16,8 +16,6 @@
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
-      <mapping ext="xjb" type="XML" />
-      <mapping ext="wsdd" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="Native" />
