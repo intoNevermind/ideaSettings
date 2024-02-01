@@ -282,6 +282,7 @@
     <ignored-resource url="http://schemas.xmlsoap.org/ws/2004/09/policy" />
     <ignored-resource url="http://schemas.xmlsoap.org/wsdl/" />
     <ignored-resource url="http://schemas.xmlsoap.org/wsdl/soap/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/wsdl/soap12/" />
     <ignored-resource url="http://skpari.ru/1c/finance" />
     <ignored-resource url="http://skpari.ru/autoinsurance/contract/ws" />
     <ignored-resource url="http://skpari.ru/autoinsurance/money/domain/dto" />
