@@ -36,6 +36,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Constructor. Parse the given string and create an InternetAddress. See the parse method for details of the parsing. The address is parsed using &quot;strict&quot; parsing. This constructor does not perform the additional syntax checks that the InternetAddress(String address, boolean strict) constructor does when strict is true. This constructor is equivalent to InternetAddress(address, false)." />
       <item value="Bicubic interpolation type." />
       <item value="Gets the first Directory of the specified type contained within this metadata collection. If no instances of this type are present, null is returned." />
     </histories>
