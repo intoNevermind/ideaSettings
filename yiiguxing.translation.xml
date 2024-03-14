@@ -34,4 +34,9 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1689171128309" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Gets the first Directory of the specified type contained within this metadata collection. If no instances of this type are present, null is returned." />
+    </histories>
+  </component>
 </application>
