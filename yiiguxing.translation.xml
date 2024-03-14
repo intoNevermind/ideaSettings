@@ -36,6 +36,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Bicubic interpolation type." />
       <item value="Gets the first Directory of the specified type contained within this metadata collection. If no instances of this type are present, null is returned." />
     </histories>
   </component>
