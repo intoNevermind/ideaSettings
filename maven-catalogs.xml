@@ -1,0 +1,12 @@
+<application>
+  <component name="MavenCatalogManager">
+    <option name="remote">
+      <list>
+        <Remote>
+          <option name="name" value="repository.groupdocs.com" />
+          <option name="url" value="https://repository.groupdocs.com/repo/" />
+        </Remote>
+      </list>
+    </option>
+  </component>
+</application>
