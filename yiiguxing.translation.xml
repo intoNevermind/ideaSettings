@@ -32,13 +32,14 @@
     <option name="lastTrimTime" value="1650550632215" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689171128309" />
+    <option name="lastTrimTime" value="1720690255063" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="865" />
     <option name="newTranslationDialogY" value="494" />
     <histories>
+      <item value="Specify where to place generated source files, keep is turned on with this option." />
       <item value="Recipient" />
       <item value="Specifies whether the timer that is created is persistent." />
       <item value="Constructor. Parse the given string and create an InternetAddress. See the parse method for details of the parsing. The address is parsed using &quot;strict&quot; parsing. This constructor does not perform the additional syntax checks that the InternetAddress(String address, boolean strict) constructor does when strict is true. This constructor is equivalent to InternetAddress(address, false)." />
@@ -47,7 +48,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
       </map>
     </option>
   </component>
